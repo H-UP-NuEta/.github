@@ -11,5 +11,6 @@
 
 
 ## Website 
-https://nueta.netlify.app/ 
+웹 사이트는 [여기](https://nueta.netlify.app/)서 확인할 수 있습니다.
+
 <img width="1407" alt="image" src="https://github.com/H-UP-NuEta/.github/assets/101381258/a38d73e1-b9cc-438e-b818-2e4ae43cd8d9">
